@@ -1,0 +1,8 @@
+.matadata/
+.recommenders/
+RemoteSystemsTempFiles/
+bin/
+.settings/
+*.project
+*.class
+.classpath
